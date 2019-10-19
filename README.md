@@ -15,4 +15,4 @@ Der Anfang ist gemacht, da die Pimps aber wieder alles verändert haben, wird da
 
 Vorschläge und Anregungen sind jeder Zeit willkommen.
 
-Wen es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> paypal.me/Enrico1982
+Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> paypal.me/Enrico1982

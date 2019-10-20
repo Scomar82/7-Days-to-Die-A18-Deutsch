@@ -8,10 +8,17 @@ Deutsche Übersetzung Alpha 18b152, letzte Änderung 20.10.2019:
 Der Anfang ist gemacht, da die Pimps aber wieder alles verändert haben, wird das noch ein ganzes Stück Arbeit, was die ganzen Updates zwischendurch noch erschweren, da sie auch immer mal wieder was in den Beschreibungen ändern.
 
 - Interface sollte komplett sein
+
 - Mod-Items komplett
 - Mod-Items Schemas komplett
-- vorhandene Gegenstände teilweise überprüft und neue Items teilweise schon übersetzt
-- Skillbaum Beschriftung übersetzt, Beschreibungen fehlen noch komplett
+
+- Gegenstände:
+  - vorhandene Gegenstände teilweise überprüft und neue Items teilweise übersetzt
+  - Kochgerichte übersetzt
+  
+- Skillbaum:
+  - Beschriftung übersetzt, Beschreibungen fehlen noch komplett
+  - die Hauptattribute und deren einzelne Levelstufen übersetzt
 
 Vorschläge und Anregungen sind jeder Zeit willkommen.
 

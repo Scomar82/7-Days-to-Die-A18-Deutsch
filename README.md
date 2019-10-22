@@ -9,12 +9,12 @@ Der Anfang ist gemacht, da die Pimps aber wieder alles verändert haben, wird da
 
 - Interface sollte komplett sein
 
-- Mod-Items komplett
-- Mod-Items Schemas komplett
-
 - Gegenstände:
   - vorhandene Gegenstände teilweise überprüft und neue Items teilweise übersetzt
-  - Kochgerichte übersetzt
+  - Mod-Items komplett
+  - Mod-Items Schemas komplett
+  - Rohstoffe überprüft/übersetzt
+  - Essen überprüft/übersetzt
   
 - Skillbaum:
   - Beschriftung übersetzt, Beschreibungen fehlen noch komplett

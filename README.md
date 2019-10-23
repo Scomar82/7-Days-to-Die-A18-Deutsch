@@ -25,6 +25,6 @@ Der Anfang ist gemacht, da die Pimps aber wieder alles verändert haben, wird da
 
 - farbliche Markierungen hinzugefügt
 
-Vorschläge und Anregungen sind jeder Zeit willkommen.
+Vorschläge und Anregungen sind jeder Zeit willkommen. -> https://discord.gg/jQkGGFG
 
 Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> paypal.me/Enrico1982

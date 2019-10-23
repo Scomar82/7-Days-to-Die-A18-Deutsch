@@ -15,10 +15,15 @@ Der Anfang ist gemacht, da die Pimps aber wieder alles verändert haben, wird da
   - Mod-Items Schemas komplett
   - Rohstoffe überprüft/übersetzt
   - Essen überprüft/übersetzt
+  - Munition überprüft/übersetzt
   
 - Skillbaum:
   - Beschriftung übersetzt, Beschreibungen fehlen noch komplett
   - die Hauptattribute und deren einzelne Levelstufen übersetzt
+
+- Standardbuff's übersetzung hinzugefügt
+
+- farbliche Markierungen hinzugefügt
 
 Vorschläge und Anregungen sind jeder Zeit willkommen.
 

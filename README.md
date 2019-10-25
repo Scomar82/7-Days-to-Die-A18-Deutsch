@@ -3,8 +3,9 @@ Deutsche Übersetzung für 7 Days to Die
 
 Das Archiv einfach in den Config-Ordner (...\steamapps\common\7 Days To Die\Data\Config) von 7 Days to Die entpacken und die vorhanden Dateien überschreiben lassen.
 
-Deutsche Übersetzung Alpha 18b155, letzte Änderung 26.10.2019:
-Deutsche Übersetzung Alpha 18.1b2, letzte Änderung 26.10.2019:
+-Deutsche Übersetzung Alpha 18b155, letzte Änderung 26.10.2019:
+
+-Deutsche Übersetzung Alpha 18.1b2, letzte Änderung 26.10.2019:
 
 Der Anfang ist gemacht, da die Pimps aber wieder alles verändert haben, wird das noch ein ganzes Stück Arbeit, was die ganzen Updates zwischendurch noch erschweren, da sie auch immer mal wieder was in den Beschreibungen ändern.
 

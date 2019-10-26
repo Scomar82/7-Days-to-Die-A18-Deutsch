@@ -37,3 +37,5 @@ Vorschläge und Anregungen sind jeder Zeit willkommen. -> https://discord.gg/jQk
 Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> [paypal.me](https://www.paypal.me/Enrico1982)
 
 Wer gerne Streams zu 7Days schauen mag: [ne0tr0na_tv](https://www.twitch.tv/ne0tr0na_tv)
+
+Sucht ihr noch einen Server zum Spielen? Dann schaut doch gern hier mal vorbei: https://discord.gg/4zeMRs2

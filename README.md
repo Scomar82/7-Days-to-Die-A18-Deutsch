@@ -20,19 +20,17 @@ Der Anfang ist gemacht, da die Pimps aber wieder alles verändert haben, wird da
     - Munition überprüft/übersetzt
   
 - Skillbaum:
-    - Beschriftung übersetzt, Beschreibungen fehlen noch
-    - die Hauptattribute und deren einzelne Levelstufen übersetzt
-        - Wahrnehmungperks    5/9
-        - Stärkeperks         3/8
-        - Kraftperks          2/10
-        - Beweglichkeitsperks 4/9
-        - Intellektperks      6/9
+    - Spielrelevante Infos komplett übersetzt
+    - lustigen Bemerkungen der Pimps zu einzelnen Perks fehlen teilweise noch.
+    - Perk-Bücher fehlen noch komplett
 
 - Standardbuff's übersetzung hinzugefügt
 
 - farbliche Markierungen hinzugefügt
 
 - Localization-Quests.txt hinzugefügt
+    - Händlerdialoge übersetzt
+    - Tagebucheinträge überarbeitet und ergänzt
 
 Vorschläge und Anregungen sind jeder Zeit willkommen. -> https://discord.gg/jQkGGFG
 

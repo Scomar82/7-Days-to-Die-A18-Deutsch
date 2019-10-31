@@ -26,7 +26,7 @@ Der Anfang ist gemacht, da die Pimps aber wieder alles verändert haben, wird da
 - Skillbaum:
     - Spielrelevante Infos komplett übersetzt
     - lustigen Bemerkungen der Pimps zu einzelnen Perks fehlen teilweise noch.
-    - Perk-Buchsammlung 3/16
+    - Perk-Buchsammlung 4/16
 
 - Standardbuff's übersetzung hinzugefügt
 

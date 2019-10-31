@@ -18,6 +18,7 @@ Der Anfang ist gemacht, da die Pimps aber wieder alles verändert haben, wird da
     - Rohstoffe überprüft/übersetzt
     - Essen überprüft/übersetzt
     - Trinken Überprüft/Übersetzungen korrigiert
+    - Arznei überprüft/korrigiert
     - Munition überprüft/übersetzt
     - Lootcontainer überprüft/Übersetzt
     - Amboss, Schmelztiegel und Verbesserter Blasebalg - Beschriftungen korrigiert

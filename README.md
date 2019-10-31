@@ -36,7 +36,9 @@ Der Anfang ist gemacht, da die Pimps aber wieder alles verändert haben, wird da
     - Händlerdialoge übersetzt
     - Tagebucheinträge überarbeitet und ergänzt
 
+
 Vorschläge und Anregungen sind jeder Zeit willkommen. -> https://discord.gg/jQkGGFG
+
 Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> [paypal.me](https://www.paypal.me/Enrico1982)
 
 Wer gerne Streams zu 7Days schauen mag: [ne0tr0na_tv](https://www.twitch.tv/ne0tr0na_tv)

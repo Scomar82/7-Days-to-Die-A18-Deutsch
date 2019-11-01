@@ -4,9 +4,11 @@ Deutsche Übersetzung für 7 Days to Die
 *Angepasst an die Mod-Struktur, Achtung, neues Installationsverzeichnis, kein Überschreiben von Orginaldateien mehr nötig. Nur die Moddateien müssen überschrieben werden, wenn es von mir eine neue Version gibt.
 Das Archiv einfach in den Hauptordner von 7 Days kopieren. Bsp: (Euer Laufwerk:\steamapps\common\7 Days To Die)*
 
--Deutsche Übersetzung Alpha 18b155, letzte Änderung 31.10.2019:
+-Deutsche Übersetzung Alpha 18b155, letzte Änderung 1.11.2019:
 
--Deutsche Übersetzung Alpha 18.1b4, letzte Änderung 31.10.2019:
+-Deutsche Übersetzung Alpha 18.1b4 (Experimental), letzte Änderung 1.11.2019:
+
+-Deutsche Übersetzung Alpha 18.1b5 (Experimental), letzte Änderung 1.11.2019:
 
 Der Anfang ist gemacht, da die Pimps aber wieder alles verändert haben, wird das noch ein ganzes Stück Arbeit, was die ganzen Updates zwischendurch noch erschweren, da sie auch immer mal wieder was in den Beschreibungen ändern.
 

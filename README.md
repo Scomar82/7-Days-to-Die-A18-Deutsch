@@ -6,8 +6,6 @@ Das Archiv einfach in den Hauptordner von 7 Days kopieren. Bsp: (Euer Laufwerk:\
 
 -Deutsche Übersetzung Alpha 18b155, letzte Änderung 1.11.2019:
 
--Deutsche Übersetzung Alpha 18.1b4 (Experimental), letzte Änderung 1.11.2019:
-
 -Deutsche Übersetzung Alpha 18.1b5 (Experimental), letzte Änderung 1.11.2019:
 
 Der Anfang ist gemacht, da die Pimps aber wieder alles verändert haben, wird das noch ein ganzes Stück Arbeit, was die ganzen Updates zwischendurch noch erschweren, da sie auch immer mal wieder was in den Beschreibungen ändern.

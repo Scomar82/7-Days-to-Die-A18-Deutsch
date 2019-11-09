@@ -1,8 +1,7 @@
 # 7-Days-to-Die-A18-Deutsch
 Deutsche Übersetzung für 7 Days to Die
 
-*Angepasst an die Mod-Struktur, Achtung, neues Installationsverzeichnis, kein Überschreiben von Orginaldateien mehr nötig. Nur die Moddateien müssen überschrieben werden, wenn es von mir eine neue Version gibt.
-Das Archiv einfach in den Hauptordner von 7 Days kopieren. Bsp: (Euer Laufwerk:\steamapps\common\7 Days To Die)*
+*Das Archiv einfach in den Hauptordner von 7 Days entpacken. Bsp: (Euer Laufwerk:\steamapps\common\7 Days To Die)*
 
 -Deutsche Übersetzung Alpha 18b155, letzte Änderung 8.11.2019:
 

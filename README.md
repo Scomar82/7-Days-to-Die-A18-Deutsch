@@ -44,5 +44,5 @@ Wer gerne Streams zu 7Days schauen mag: [ne0tr0na_tv](https://www.twitch.tv/ne0t
 
 Sucht ihr noch einen Server zum Spielen? Dann schaut doch gern hier mal vorbei: https://discord.gg/4zeMRs2
 
-Vielen Dank an Fuffel, durch Ihn sind ca. 400 Übersetzungen mehr drinnen, hauptsächlich im Menübereich, Charaktererstellung und Einstellungsbereich!
+Vielen Dank an Fuffel, durch Ihn sind über 400 Übersetzungen mehr drinnen, hauptsächlich im Menübereich, Charaktererstellung und Einstellungsbereich!
 

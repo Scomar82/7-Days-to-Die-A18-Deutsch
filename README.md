@@ -5,9 +5,18 @@ Deutsche Übersetzung für 7 Days to Die
 
 -Deutsche Übersetzung Alpha 18b155, letzte Änderung 10.11.2019:
 
--Deutsche Übersetzung Alpha 18.1b6 (Experimental), letzte Änderung 11.11.2019:
+-Deutsche Übersetzung Alpha 18.1b6 (Experimental), letzte Änderung 12.11.2019:
 
-Der Anfang ist gemacht, da die Pimps aber wieder alles verändert haben, wird das noch ein ganzes Stück Arbeit, was die ganzen Updates zwischendurch noch erschweren, da sie auch immer mal wieder was in den Beschreibungen ändern.
+Nur in A18.1b6:
+- Formenauswahlmöglichkeiten folgender Baumaterialien übersetzt:
+    -Holzrahmen
+    -Eisenrahmen
+    -Stahlgerüst
+    -Bruchstein
+    -Ziegel
+    -Feuchter Beton
+
+In A18.0 und A18.1:
 
 - Interface sollte komplett sein
 
@@ -34,7 +43,6 @@ Der Anfang ist gemacht, da die Pimps aber wieder alles verändert haben, wird da
 - Localization-Quests.txt hinzugefügt
     - Händlerdialoge übersetzt
     - Tagebucheinträge überarbeitet und ergänzt
-
 
 Vorschläge und Anregungen sind jeder Zeit willkommen. -> [Discord zur Übersetzung](https://discord.gg/jQkGGFG)
 

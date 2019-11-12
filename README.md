@@ -8,7 +8,7 @@ Deutsche Übersetzung für 7 Days to Die
 -Deutsche Übersetzung Alpha 18.1b6 (Experimental), letzte Änderung 12.11.2019:
 
 Nur in A18.1b6:
-- Formenauswahlmöglichkeiten folgender Baumaterialien übersetzt:
+- Formauswahlmöglichkeiten folgender Baumaterialien übersetzt:
     - Holzrahmen
     - Eisenrahmen
     - Stahlgerüst

@@ -3,11 +3,13 @@ Deutsche Übersetzung für 7 Days to Die
 
 *Das Archiv einfach in den Hauptordner von 7 Days entpacken. Bsp: (Euer Laufwerk:\steamapps\common\7 Days To Die)*
 
--Deutsche Übersetzung Alpha 18b155, letzte Änderung 10.11.2019:
+-Deutsche Übersetzung Alpha 18b155 (Stable), letzte Änderung 10.11.2019:
 
 -Deutsche Übersetzung Alpha 18.1b6 (Experimental), letzte Änderung 12.11.2019:
 
-Nur in A18.1b6:
+-Deutsche Übersetzung Alpha 18.1b7 (Stable), letzte Änderung 12.11.2019:
+
+Nur in A18.1b6+b7:
 - Formauswahlmöglichkeiten folgender Baumaterialien übersetzt:
     - Holzrahmen
     - Eisenrahmen

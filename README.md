@@ -9,12 +9,12 @@ Deutsche Übersetzung für 7 Days to Die
 
 Nur in A18.1b6:
 - Formenauswahlmöglichkeiten folgender Baumaterialien übersetzt:
-    -Holzrahmen
-    -Eisenrahmen
-    -Stahlgerüst
-    -Bruchstein
-    -Ziegel
-    -Feuchter Beton
+    - Holzrahmen
+    - Eisenrahmen
+    - Stahlgerüst
+    - Bruchstein
+    - Ziegel
+    - Feuchter Beton
 
 In A18.0 und A18.1:
 

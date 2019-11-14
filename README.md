@@ -7,7 +7,7 @@ Deutsche Übersetzung für 7 Days to Die
 
 -Deutsche Übersetzung Alpha 18.1b6 (Experimental), letzte Änderung 12.11.2019:
 
--Deutsche Übersetzung Alpha 18.1b7 (Stable), letzte Änderung 13.11.2019:
+-Deutsche Übersetzung Alpha 18.1b8 (Stable), letzte Änderung 14.11.2019:
 
 Nur in A18.1b6+b7:
 - Formauswahlmöglichkeiten folgender Baumaterialien übersetzt:

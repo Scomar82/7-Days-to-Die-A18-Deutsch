@@ -1,7 +1,8 @@
 # 7-Days-to-Die-A18-Deutsch
 Deutsche Übersetzung für 7 Days to Die
 
-*Das Archiv einfach in den Hauptordner von 7 Days entpacken. Bsp: (Euer Laufwerk:\steamapps\common\7 Days To Die)*
+*Das Archiv einfach in den Hauptordner von 7 Days entpacken.
+Bsp: (Euer Laufwerk:...Steam\steamapps\common\7 Days To Die)*
 
 -Deutsche Übersetzung Alpha 18b155 (Stable), letzte Änderung 10.11.2019:
 

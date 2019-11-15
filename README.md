@@ -5,9 +5,9 @@ Deutsche Übersetzung für 7 Days to Die
 
 -Deutsche Übersetzung Alpha 18b155 (Stable), letzte Änderung 10.11.2019:
 
--Deutsche Übersetzung Alpha 18.1b8 (Stable), letzte Änderung 14.11.2019:
+-Deutsche Übersetzung Alpha 18.1b8 (Stable), letzte Änderung 15.11.2019:
 
-Nur in A18.1b6+b7:
+Nur ab A18.1 neu drinnen:
 - Formauswahlmöglichkeiten folgender Baumaterialien übersetzt:
     - Holzrahmen
     - Eisenrahmen
@@ -15,6 +15,8 @@ Nur in A18.1b6+b7:
     - Bruchstein
     - Ziegel
     - Feuchter Beton
+
+- Beschreibungen der Türen / Luken wurde korrigiert
 
 In A18.0 und A18.1:
 

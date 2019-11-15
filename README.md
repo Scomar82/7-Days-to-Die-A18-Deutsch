@@ -1,5 +1,5 @@
 # 7-Days-to-Die-A18-Deutsch
-Deutsche Übersetzung für 7 Days to Die
+Deutsche Übersetzung für 7 Days to Die - Für Bildvorschau, oben den Wiki-Reiter anklicken, rechts kann man dann zwischen den Seiten navigieren.
 
 *Das Archiv einfach in den Hauptordner von 7 Days entpacken.
 Bsp: (Euer Laufwerk:...Steam\steamapps\common\7 Days To Die)*
@@ -50,6 +50,8 @@ In A18.0 und A18.1:
 Vorschläge und Anregungen sind jeder Zeit willkommen. -> [Discord zur Übersetzung](https://discord.gg/jQkGGFG)
 
 Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> [paypal.me](https://www.paypal.me/Enrico1982)
+
+Modlets von mir findet ihr hier: [Scomar82_Modlets](https://github.com/Scomar82/7-Days-Modlets)
 
 Wer gerne Streams zu 7Days schauen mag: [ne0tr0na_tv](https://www.twitch.tv/ne0tr0na_tv)
 

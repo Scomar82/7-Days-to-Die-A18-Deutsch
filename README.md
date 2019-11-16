@@ -6,7 +6,7 @@ Bsp: (Euer Laufwerk:...Steam\steamapps\common\7 Days To Die)*
 
 -Deutsche Übersetzung Alpha 18b155 (Stable), letzte Änderung 10.11.2019:
 
--Deutsche Übersetzung Alpha 18.1b8 (Stable), letzte Änderung 15.11.2019:
+-Deutsche Übersetzung Alpha 18.1b8 (Stable), letzte Änderung 16.11.2019:
 
 Nur ab A18.1 neu drinnen:
 - Formauswahlmöglichkeiten folgender Baumaterialien übersetzt:
@@ -18,6 +18,7 @@ Nur ab A18.1 neu drinnen:
     - Feuchter Beton
 
 - Beschreibungen der Türen / Luken wurde korrigiert
+- Pinseltexturen Übersetzung von Fuffel hinzugefügt
 
 In A18.0 und A18.1:
 

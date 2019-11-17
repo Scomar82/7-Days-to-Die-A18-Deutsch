@@ -54,8 +54,9 @@ Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig
 
 Modlets von mir findet ihr hier: [Scomar82_Modlets](https://github.com/Scomar82/7-Days-Modlets)
 
-Wer gerne Streams zu 7Days schauen mag: - [ne0tr0na_tv](https://www.twitch.tv/ne0tr0na_tv)
-                                        - [eigenkreationenev](https://www.twitch.tv/eigenkreationenev)
+Wer gerne Streams zu 7Days schauen mag:
+- [ne0tr0na_tv](https://www.twitch.tv/ne0tr0na_tv)
+- [eigenkreationenev](https://www.twitch.tv/eigenkreationenev)
 
 Sucht ihr noch einen Server zum Spielen? Dann schaut doch gern hier mal vorbei: [Eigen-Kreationen e. V. - Discord](https://discord.gg/4zeMRs2)
 

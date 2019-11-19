@@ -5,10 +5,18 @@ Deutsche Übersetzung für 7 Days to Die - Für Bildvorschau, oben den Wiki-Reit
 Bsp: (Euer Laufwerk:...Steam\steamapps\common\7 Days To Die)*
 
 - Deutsche Übersetzung Alpha 18b155 (Stable), letzte Änderung 10.11.2019:
-- Deutsche Übersetzung Alpha 18.1b8 (Stable), letzte Änderung 18.11.2019:
-- Deutsche Übersetzung Alpha 18.2b2 (Experimental), letzte Änderung 18.11.2019:
+- Deutsche Übersetzung Alpha 18.1b8 (Stable), letzte Änderung 19.11.2019:
+- Deutsche Übersetzung Alpha 18.2b2 (Experimental), letzte Änderung 19.11.2019:
 
 Nur ab A18.1 neu drinnen:
+
+- 19.11.19:
+    - Beschreibungen der Klingenwaffen hinzugefügt
+    - Fehlende Baupläne ergänzt
+    - Bei Beschreibungen: Lucky Looter wieder eingetragen, Steak mit Kartoffeln zu Steak mit Pommes geändert
+
+---
+
 - Formauswahlmöglichkeiten folgender Baumaterialien übersetzt:
     - Holzrahmen
     - Eisenrahmen

@@ -11,7 +11,7 @@ Bsp: (Euer Laufwerk:...Steam\steamapps\common\7 Days To Die)*
 Nur ab A18.1 neu drinnen:
 
 - 20.11.19:
-    - Beschreibunegn folgenden Sachen kontrolliert und ggf. angepasst:
+    - Beschreibungen folgenden Sachen kontrolliert und ggf. angepasst:
         - Rohstoffe
         - Schusswaffen
         - NK-Waffen und Werkzeuge

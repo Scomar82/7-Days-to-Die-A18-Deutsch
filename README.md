@@ -1,4 +1,5 @@
-# 7-Days-to-Die-A18-Deutsch
+# 7-Days-to-Die-A18-Deutsch - Die Anpassung für die neue Experimental 18.2b5 wird leider dauern, da beide Dateien zusammengefasst wurden, die Struktur erweitert wurde und viele alte Einträge gelöscht wurden, muss komplett von Vorn anfangen, mit Copy & Paste sollte es etwas schneller gehen, nur muss das Tool, welches ich nutze, erstmal umgeschrieben werden, damit es die neue Struktur erkennt. -.- Sorry das wird leider etwas dauern.
+
 Deutsche Übersetzung für 7 Days to Die - Für Bildvorschau, oben den Wiki-Reiter anklicken, rechts kann man dann zwischen den Seiten navigieren.
 
 *Das Archiv einfach in den Hauptordner von 7 Days entpacken.

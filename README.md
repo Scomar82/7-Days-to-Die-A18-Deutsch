@@ -6,7 +6,7 @@ Deutsche Übersetzung für 7 Days to Die - Für Bildvorschau, oben den Wiki-Reit
 Bsp: (Euer Laufwerk:...Steam\steamapps\common\7 Days To Die)*
 
 - Deutsche Übersetzung Alpha 18b155 (Stable), letzte Änderung 10.11.2019:
-- Deutsche Übersetzung Alpha 18.1b8 (Stable), letzte Änderung 22.11.2019:
+- Deutsche Übersetzung Alpha 18.1b8 (Stable), letzte Änderung 30.11.2019:
 - Deutsche Übersetzung Alpha 18.2b5 (Experimental), letzte Änderung 30.11.2019: *Bitte unbedingt im Mods-Ordner die alte Version (Ordner: Scomar82_7Days_Deutsch) vor Neuinstallierung löschen*
 
 - A18.2b5:

@@ -9,6 +9,8 @@ Bsp: (Euer Laufwerk:...Steam\steamapps\common\7 Days To Die)*
 - Deutsche Übersetzung Alpha 18.1b8 (Stable), letzte Änderung 30.11.2019:
 - Deutsche Übersetzung Alpha 18.2b5 (Experimental), letzte Änderung 30.11.2019: *Bitte unbedingt im Mods-Ordner die alte Version (Ordner: Scomar82_7Days_Deutsch) vor Neuinstallierung löschen*
 
+---
+
 - 30.11.19
     - A18.2b5:
     - Komplette Neubearbeitung nötig, da beide Lokalisierungsdateien in eine vereint wurden und in dieser eine neue Struktur angelegt wurde

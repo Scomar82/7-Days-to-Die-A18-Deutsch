@@ -1,5 +1,7 @@
 # 7-Days-to-Die-A18-Deutsch
 
+# Wer die 18.3 installiert hat, bitte nicht vergessen, meinen Übersetzungsordner im Mods-Verzeichnis zu löschen, ab der 18.3 ist Deutsch wieder von Haus aus mit drinnen. 
+
 Deutsche Übersetzung für 7 Days to Die - Für Bildvorschau, oben den Wiki-Reiter anklicken, rechts kann man dann zwischen den Seiten navigieren.
 
 *Das Archiv einfach in den Hauptordner von 7 Days entpacken.
